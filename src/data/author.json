@@ -1,29 +1,39 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
+    "name": "Lizz Westman",
+    "occupation": "Information Architect & UX Design Strategist",
+    "location": "Portland, Oregon",
+    "avatar": "lizz.jpg",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "lizz@lizzwestman.net",
+    "telephone": "503.741.7352",
+    "website": "https://lizzwestman.net",
     "skills": [
+        "Project Management", 
+        "Requirements Gathering",
+        "Vendor & Client Management",
+        "Resource Allocation", 
+        "Software Development Life Cycle",
+        "Product Ownership",
+        "Project Planning",
+        "Process Analysis",
+        "UX Research & Design",
+        "Business Analysis", 
+        "Product Marketing",
+        "Brand Management",
         "HTML",
         "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Google Analytics",
+        "SEO", 
+        "Taxonomy"
+               
+  
     ],
     "languages": [
         {
             "name": "English",
             "level": "native"
         },
-        {
-            "name": "German",
-            "level": "fluent"
-        },
+        
         {
             "name": "French",
             "level": "basic"
@@ -33,12 +43,17 @@
         {
             "name": "Github",
             "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "url": "https://github.com/lizzwestman"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "LizzWestman",
+            "url": "https://www.linkedin.com/in/lizzwestman"
         }
+        {
+            "name": "Instagram",
+            "user": "@lizzwestman",
+            "url": "https://instagram.com/lizzwestman"
+        },
     ]
 }
